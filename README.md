@@ -41,6 +41,7 @@ Data cleaning and preprocessing using Python & MS-Excel
 Interactive charts and KPIs
 
 📷 Dashboard Preview
+<img width="652" height="839" alt="Amazonn Dashboard" src="https://github.com/user-attachments/assets/c8b059c6-95ba-46d7-adaa-4dbbca0092d7" />
 
 📈 Insights
 
